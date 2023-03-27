@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Neha Patkar , Role - Tester    
 
 # THANKS
 
