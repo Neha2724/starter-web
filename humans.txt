@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <nehaPatkar for Learning>
+    <nehaPatkar for Learning guthub>
 
 # TECHNOLOGY COLOPHON
 
